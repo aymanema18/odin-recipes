@@ -1,0 +1,15 @@
+body {
+    background-color: #ffecb4;
+    text-align: center;
+    color: rgb(32, 31, 31);
+    font-family:  Arial, Helvetica, serif;
+}
+
+.list a {
+    color: rgb(32, 31, 31);
+    text-decoration: none;
+}
+
+.list {
+    list-style-type: none;
+}
